@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the Cathedral Church of Norwich at the primary visitation of the Right Reverend Father in God, John, Lord Bishop of Norwich May 18, 1692 by John Jeffery ...</title>
+            <author>Jeffery, John, 1647-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46710</idno>
+            <idno type="STC">Wing J519</idno>
+            <idno type="STC">ESTC R1693</idno>
+            <idno type="EEBO-CITATION">12576350</idno>
+            <idno type="OCLC">ocm 12576350</idno>
+            <idno type="VID">63585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63585)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the Cathedral Church of Norwich at the primary visitation of the Right Reverend Father in God, John, Lord Bishop of Norwich May 18, 1692 by John Jeffery ...</title>
+                  <author>Jeffery, John, 1647-1720.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft, for Robert Clavell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63585:1"/>
+            <pb facs="tcp:63585:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the <hi>Cathedral Church</hi> OF NORWICH: AT THE Primary Viſitation of The Right Reverend Father in God, JOHN, Lord Biſhop of NORWICH. <hi>May</hi> 18. 1692.</p>
+            <p>By <hi>JOHN JEFFERY,</hi> M.A. Miniſter of S. <hi>Peter</hi>'s of <hi>Mancroft</hi> in <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Samuel Roycroft,</hi> for <hi>Robert Clavell,</hi> at the <hi>Peacock</hi> in S. <hi>Paul</hi>'s Church-Yard. 1692.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:63585:2" rendition="simple:additions"/>
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>Ra: Barker.</signed>
+               <date>Jul. 27. 1692.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63585:2"/>
+            <head>A SERMON Preached in the <hi>Cathedral Church</hi> OF NORWICH.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 Cor. IV. 5.</bibl>
+                  <p>
+                     <hi>For we Preach not our ſelves, but Christ Jeſus the Lord: and our ſelves your Servants for Jeſus ſake.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>GOD is the Supream, Abſolute, and Univerſal Governour of the World; and acts as ſuch by the immediate Influences of his Wiſdom, Goodneſs, and Power
+<note place="margin">
+                  <hi>(a) Salv.</hi> de gub. Dei, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Iſid.</hi> Ep. 123.</note>. Thoſe Influences have their proper and full effect (according to the Divine Will)
+<pb n="2" facs="tcp:63585:3"/>upon all Creatures, Animate and Inanimate; Rati<g ref="char:EOLhyphen"/>onal and Irrational: But the Government is moſt perfect, where Rational Natures are the Subjects. Thoſe Rational Natures are Angels and Men; and among Men, thoſe who are Truly Religious, are moſt eminently Subjects of this Kingdom: And therefore the State of Religion (eſpecially in the Days of the <hi>Meſſias</hi>) is called the <hi>Kingdom of Hea<g ref="char:EOLhyphen"/>ven,</hi> and the <hi>Kingdom of God</hi>
+               <note n="(b)" place="margin">Vid. <hi>Grot.</hi> ad <hi>Mat.</hi> 3.2. <hi>Dan.</hi> 2.44. &amp; 7.13, 14.</note>. That Kingdom is no other than the <hi>Empire of Reaſon and Religion in the Souls and Lives of Men, by which</hi> (ſo far as it prevails) <hi>they are made Wiſe, and Good, and Happy</hi>
+               <note n="(c)" place="margin">V. <hi>Eraſm.</hi> Paraphr. <hi>Mat.</hi> 4. p. 125. Jam enim inſtat Regnum coelo<g ref="char:EOLhyphen"/>rum, &amp;c. <hi>Luc.</hi> 22 p. 217. Nolite tale, &amp;c. <hi>Mat.</hi> 20. p. 133. Illic enim qui, &amp;c.</note>: And <hi>the Son of God</hi> (to whom the Fa<g ref="char:EOLhyphen"/>ther has committed all Power) <hi>came down from Hea<g ref="char:EOLhyphen"/>ven, and aſſumed our Nature, and was born, and lived, and died, and roſe again, and aſcended into Heaven, and became the Author and the Pattern of the Religion and of the Happineſs of Men.</hi> This is the glorious Doctrin of the Goſpel; and this is the True Notion of Jeſus Chriſt: This was ſincerely declared by the Apoſtles; and this is eaſie to be underſtood by all Chriſtians. Their Office, the Apoſtles were ſeparated unto, by the Son of God; and they were Qualified for it by the Divine Spirit: They performed it with all Simplicity and Faith<g ref="char:EOLhyphen"/>fulneſs; and they were accompanied with Aſſurance and Succeſs. Therefore ſays S. <hi>Paul,</hi> Ver. 1, 2. <hi>Seeing we have this Miniſtry, we faint not: But have re<g ref="char:EOLhyphen"/>nounced the hidden things of diſhoneſty, not walking in craftineſs, not handling the Word of God deceitfully; but by manifeſtation of the Truth, commending our ſelves to every man's Conſcience, in the ſight of God.</hi> This Doctrin the Diſciples of Chriſt were obliged to believe and profeſs: In ſuch Teachers as the
+<pb n="3" facs="tcp:63585:3"/>Apoſtles, they might intirely confide; and Nothing could hinder the Converſion of Men to Chriſtia<g ref="char:EOLhyphen"/>nity, but vicious Principles, and infernal Deluſion. Ver. 3, 4. <hi>But if our Goſpel be hid, it is hid to them that are loſt: In whom the God of this World hath blinded the Minds of them which believe not, leſt the light of the glorious Goſpel of Chriſt, who is the Image of God, ſhould ſhine unto them.</hi> Such is the Fidelity of thoſe who Preached the <hi>Goſpel of the Kingdom:</hi> And ſuch is the caſe of thoſe to whom it was preached. As a Mark of their Fidelity to whom the publication of this Divine Doctrin was committed, They did not aſſume unto themſelves; but aſcribe all unto Chriſt: And had no other Deſign upon Men; but to miniſter to the Converſion and Salva<g ref="char:EOLhyphen"/>tion of them. <hi>For we preach not our ſelves, but Chriſt Jeſus the Lord, and our ſelves your Servants, for Jeſus ſake.</hi> They publiſhed the Goſpel of the Kingdom: That Jeſus Chriſt alone was the Supream Lord: That themſelves were only his Inferior Mi<g ref="char:EOLhyphen"/>niſters: That in ſetting up this Spiritual Kingdom in the Souls of Men, they were Servants of Chriſt, and of them. This is the great Truth I am to diſ<g ref="char:EOLhyphen"/>courſe, <hi>viz.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrin. </seg>
+               </label> That <hi>the Son of God Incarnate, is the only Supream Lord: That the Teachers of Chriſtianity are the In<g ref="char:EOLhyphen"/>ferior Miniſters of his Spiritual Kingdom.</hi>
+            </p>
+            <p>For Explication of which Truth, I ſhall give ſome Account,
+<list>
+                  <item>1. Of the <hi>Nature</hi> of the <hi>Spiritual Kingdom:</hi>
+                  </item>
+                  <item>2. Of the <hi>Glory</hi> of the <hi>Supream Lord:</hi>
+                  </item>
+                  <item>3. Of the <hi>Office</hi> of his <hi>Inferior Miniſters.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="4" facs="tcp:63585:4"/>
+            <p n="1">1. I ſhall give an Account of the <hi>Nature</hi> of this <hi>Spiritual Kingdom.</hi>
+            </p>
+            <p>Since the Original degeneracy of Man; there has been a gradual advancement of the State of Religion. In the firſt Ages of the World, it did ſubſiſt in diſ<g ref="char:EOLhyphen"/>perſed Individuals; till ſome Aſſemblies began to Call upon the Name of the Lord
+<note n="(d)" place="margin">Gen. 4 6.</note>. Afterwards God ſet up an Empire among the Jews, peculiarly for the intereſt of Virtue; and a whole Nation profeſſed the True Religion, as they were taught by ſupernatural Revelation. The Government of that Holy Nation was a <hi>Theocracy;</hi> and the Laws of their Polity, as well as of their Religion, were Divine
+<note n="(e)" place="margin">1 Sam. 2.12.8.7.10.19. Judg. 8.23.</note>. In <hi>allu<g ref="char:EOLhyphen"/>ſion</hi> to this Sacred Empire, God foretold (unto that People) the Perfection of Religion, that ſhould be, in the Days of the <hi>Meſſias;</hi> under the Notion of <hi>His Kingdom,</hi> which ſhould be Univerſal, and that all <hi>Kings ſhould fall down before, and all Nations ſerve</hi> Meſſiah <hi>the Prince</hi>
+               <note n="(f)" place="margin">Pſal. 72.1. Dan. 9.25.</note>. The ſubmiſſion of all Or<g ref="char:EOLhyphen"/>ders and Nations of Men, to be Subjects of this Kingdom, is demonſtration that the Nature of it is <hi>Spiritual:</hi> For that Subjection was to be, by volun<g ref="char:EOLhyphen"/>tary and chearful Conſent, as Men accept what they account their Glory. Agreeable unto this, was the Declaration of Chriſt, who diſowned all Secular Power, and ſaid, <hi>His Kingdom was not of this World</hi>
+               <note n="(g)" place="margin">Joh. 18.34.</note>; ſignifying, that it was ſuch as <hi>GOD</hi> had exerciſed from the beginning, but with extraordinary manife<g ref="char:EOLhyphen"/>ſtation and effect. It was indeed the Empire of Religion, or the Effectual and Univerſal prevalency of it; by which, Men of all Nations, who became Chriſtians, ſhould become Like God in <hi>Wiſdom</hi> and <hi>Goodneſs</hi>
+               <note n="(h)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Hiero.</hi> ad v. 67. p. 290.</note>. This the <hi>Jews</hi> call'd <hi>the Kingdom of
+<pb n="5" facs="tcp:63585:4"/>Heaven;</hi> and this the Gentiles call'd, <hi>Philoſophy:</hi> Which, according to <hi>Plutarch</hi> is the Inſtitution of a Virtuous Man
+<note n="(i)" place="margin">
+                  <hi>Plut.</hi> de lib. Educ. <hi>Hieroc.</hi> Praeſ.</note>. For among the <hi>Gentiles</hi> Religion was no ſuch thing, as it ought to have been; but rather the conſecration of Vice, than the practice of Virtue
+<note n="(k)" place="margin">Quid mirum ſi ab hâc gente univerſa flagitia manarunt? apud quam ipſa vitia religioſa ſunt: Ea<g ref="char:EOLhyphen"/>que non modo non vitantur, verum etiam coluntur. <hi>Lactant.</hi> l. 1. c. 20. <hi>Aug.</hi> de Civ. D. lib. 2. c. 4, 5, 6, 7, 8, 10, 14, 16, 22, 25, 26.</note>; and their Philoſophers and Lawgivers
+<note n="(l)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Hiero.</hi> p. 309.</note> (not their Prieſts) taught Men to Live. Hence the Chriſtians ſpeaking of our Religion, to the Capacity of the Gentiles, called it <hi>Our Philoſophy</hi>
+               <note n="(m)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Tatian.</hi> contra Gr. p. 166.</note>, the <hi>Divine Philoſophy</hi>
+               <note n="(n)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Juſtin M.</hi> Ap. 1.</note>, and the <hi>Lord's Philoſophy</hi>
+               <note n="(o)" place="margin">—Magis duru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſecularis Phi<g ref="char:EOLhyphen"/>loſophiae pravitate, quam Philoſophiae Dominicae lonitate pacificus. <hi>Cypr.</hi> Ep. 1. l. 1.</note>; looking upon it as the Inſtitution of a Religious Man, and that delivered in the Di<g ref="char:EOLhyphen"/>vine Hiſtory of the Son of God: The Doctrin of True Religion, is the Image of God in Records; and the Practice of Religion, is the Image of God in Life; and then Men are moſt properly ſubject to, when they are <hi>Imitators of God</hi>
+               <note n="(p)" place="margin">Eph. 5.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Cor. 11.1.</note>. The Per<g ref="char:EOLhyphen"/>fection of Religion, is in a peculiar ſenſe, this Di<g ref="char:EOLhyphen"/>vine Kingdom: And as by <hi>Baptiſm</hi> Chriſtians take upon them, the Profeſſion of, and Obligation to it; ſo by the <hi>Lord's Supper,</hi> they continually ſet Him before their eyes, who is the Author and Pattern thereof. Inſtruction and Perſuaſion are the proper Means to make men Wiſe and Good; and the Addreſſes to that purpoſe are made effectual, by the Spirit of God, on the Souls of Men. Thus is the Kingdom of God ſet up in Individual Perſons; and the Society of all ſuch Perſons is the Catholic
+<note n="(q)" place="margin">Act. 10.<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> Church; or Univerſal Kingdom of God on Earth, entituled from its Nature, <hi>The Kingdom of Heaven.</hi>
+               <pb n="6" facs="tcp:63585:5"/>For as the Bleſſedneſs of Heaven, is the higheſt perfection of Religion; ſo the Religion of Chriſt has the nature of that Bleſſedneſs on Earth. Beati<g ref="char:EOLhyphen"/>tude and Piety are the ſame, in the accounts of the Goſpel
+<note n="(r)" place="margin">Mat. 5.3. &amp;c. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ariſt.</hi>
+               </note> and Truth it ſelf; and every Man is ſo far truly Happy, as he is truly Religious. This Inſtitution is Eternal and Divine, ſuch as continues after Death; and raiſes the Souls of Chriſtians to the ſtate of Angels. So this Kingdom of God over Men, which ſhall never end, is begun here; and as the Nature of that Kingdom is intirely Spiritual, ſo it is moſt Excellent and Glorious. The <hi>External Polity</hi> of this Religious State is Temporary and Secular, and is ſuch a Defence for Chriſtianity (the Spiritual Kingdom of God,) as Worldly Government is for Moral Vir<g ref="char:EOLhyphen"/>tue (his Natural Kingdom.) Among degenerate Chri<g ref="char:EOLhyphen"/>ſtians, this Secular Polity, and the Worldly Advan<g ref="char:EOLhyphen"/>tages of it, are their chief Deſign: Religion is made by them, ſubſervient to their Greatneſs, Wealth, and Power: Chriſtianity is made a Carnal Religion, and the State of it is made a Worldly Empire
+<note n="(s)" place="margin">Vid. <hi>Eraſm.</hi> Annot. ad Matt. 11. <hi>Jugum meum ſuave</hi>] &amp; ad Matt. 5. <hi>Omne malum.</hi>]</note>. But this Antichriſtian Cheat is not to be run down, by depriving Religion of all Secular Protection and En<g ref="char:EOLhyphen"/>couragement from Laws; but Chriſtian Conſtitutions muſt favour Piety, as the Civil Conſtitutions have favour'd <hi>Juſtice,</hi> (which is alſo Divine and an Eſſential part of Religion
+<note n="(t)" place="margin">Jus à Jove.</note>.) This then is the Nature of Chriſt's Spiritual Kingdom, The Perfection of Reli<g ref="char:EOLhyphen"/>gion in the Souls and Lives of Men, promoted by Spiritual Means and Influences. Of this there is an External Polity, by which it is guarded againſt the Violence and Craft of <hi>wicked and unreaſonable Men, who have not Faith:</hi> And ſo <hi>Kings are the Nurſing Fathers, and Queens the Nurſing Mothers of the Church</hi>
+               <note n="(u)" place="margin">Iſ. 49.23.</note>.</p>
+            <pb n="7" facs="tcp:63585:5"/>
+            <p n="2">2. I am to give an account of the <hi>Glory</hi> of the <hi>Supream Lord.</hi>
+            </p>
+            <p>The Archetypal Idea of this Spiritual Kingdom, is the Nature of God himſelf; and ſo far as God is manifeſted to Men, <hi>his Kingdom is come among them.</hi> But as <hi>Plato</hi> obſerved, the Eyes of Men are not able to bear the Rays of Divinity
+<note n="(x)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plato</hi> Soph. p. 119.</note>; and the Image of the greateſt things cannot affect Human Senſe, or de<g ref="char:EOLhyphen"/>ſcend to Human Capacity
+<note n="(y)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plato</hi> Civil.</note>: Yet it is neceſſary, that there ſhould be in Men a right, and ſtable, and lively Opinion of Wiſdom and Virtue; and ſuch an Opinion is a Particle of Di<g ref="char:EOLhyphen"/>vinity, in whomſoever it abides
+<note n="(z)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plato</hi> p. 137.</note>. The True God provided a glorious Expedient for this, when He cauſed the Divine <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (<hi>the brightneſs of his Glory, and the expreſs Image of his Perſon</hi>
+               <note n="(a)" place="margin">Heb. 1.3.</note>,) to aſſume the Nature of Man, and in it to perform the Works of God. This Sacred Perſon (<hi>Conſubſtan<g ref="char:EOLhyphen"/>tial
+<note n="(b)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Vid. <hi>Athan.</hi> de Syn. <hi>Arim.</hi> &amp; <hi>Sal.</hi> Ep. p. 928. 937. <hi>Niceph.</hi> l. 8. c. 22.</note> to the Moſt High God,</hi>) was Incarnate: <hi>The Word was made Fleſh, and dwelt among us; and we beheld his glory, the glory of the only begotten of the Father, full of Grace and Truth</hi>
+               <note n="(c)" place="margin">Joh. 1.14.</note>. Thus God exhibited Himſelf to Men in the perſon of his Son, and He appeared in the Shape and Form of Man, familiarly to Men. The Human Nature of the Son of God was conſecrated into a Living Temple by his reſi<g ref="char:EOLhyphen"/>dence in, and Union with it: And God the Word, ſo acquainted Himſelf with Mortal men, by the Inſtru<g ref="char:EOLhyphen"/>ment of a Body, as <hi>Euſebius</hi> ſays
+<note n="(d)" place="margin">
+                  <hi>Euſeb.</hi> Orat. ad <hi>Tric. Conſt.</hi> c. 14.</note>. He demon<g ref="char:EOLhyphen"/>ſtrated His Divine Perfections in the uſing of our Na<g ref="char:EOLhyphen"/>ture, as an excellent Muſician diſcovers his Skill by
+<pb n="8" facs="tcp:63585:6"/>uſing an Harp, whoſe Nature is altogether unlike and inferior to his. Such a Nature as ours (which is Ra<g ref="char:EOLhyphen"/>tional and Material,) was fit for the Eternal <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for God the Word to ſhew Himſelf in, to Men; and when He ſhew'd himſelf, He ſhew'd the moſt High God, for He is God of God, as the Rays of the Sun are Light of Light. Therefore he ſaid, <hi>He that hath ſeen me, hath ſeen the Father</hi>
+               <note n="(e)" place="margin">Joh. 14.9.</note>; and, <hi>He that ſeeth me, ſeeth him that ſent me</hi>
+               <note n="(f)" place="margin">Joh. 14.45.</note> Thus was God gloriouſly and ſenſibly manifeſted unto Men, when He came down to Men in the likeneſs of Man, and in our Nature diſcovered his own: For in Jeſus Chriſt dwelt <hi>all the fulneſs of the Godhead Bodily</hi>
+               <note n="(g)" place="margin">Col. 2.9.</note>. And when he appeared in Human Nature, He diſcover'd Himſelf by Divine Works; and His glory was diſcloſed by his Actions. If any one look'd upon the Man Chriſt Jeſus, there was no ſenſi<g ref="char:EOLhyphen"/>ble Glory about his Head, that might diſtinguiſh Him from Others; but there was an Intellectual Luſtre, which Wiſdom and Goodneſs adorned Him with. His Words and Deeds were ſuch, as meer Man never did exhibit; and upon his Speeches and Actions there were Marks of Divinity viſible. His Miracles were ſuch as no Power, but that of God could do; and with them He entertained and aſtoniſhed the Minds of Men, who expreſſed their Admiration, ſaying, <hi>What manner of Man is this</hi>
+               <note n="(h)" place="margin">Matt. 8.27.</note>. Beſides, theſe Miracles were all Acts of Love, and Men were affected at them, as at the obſervation of Greatneſs and Goodneſs
+<note n="(i)" place="margin">Mar. 7.37. Act. 10.38.</note>. At the fame time, the obliged and amazed Multitude were entertained by the Divine Reaſon, with Diſcourſes full of Wiſdom and Virtue; ſuch as were moſt worthy of God, and moſt profitable to Men
+<note n="(k)" place="margin">Joh. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.46.</note>. Thoſe who heard Him ſpeak ſuch Wiſdom as never Man ſpake, ſaw Him Live ſuch Virtue as never Man lived; and Celeſtial
+<pb n="9" facs="tcp:63585:6"/>Holineſs cloathed the Son of Man with Glory. He was thus a Living Law of Virtue, and the ſubſtan<g ref="char:EOLhyphen"/>tial Doctrin of Wiſdom, and a ſenſible manifeſtation of Power; and yet a Man like unto Us in all things, except thoſe excellent Glories, and except our vicious Infirmities. Here then was Human Nature in view, and Human Converſation obſervable: But in all this, a Divine Wiſdom, Goodneſs and Power did appear. Here was the <hi>Life of God</hi> exhibited in the Nature of Men; and the Inviſible Divinity did appear veil'd in the ſenſibleneſs of Humanity. His Converſation was familiar, and yet ſtupendious; and every appearance was Wonderful, but not Terrible. Such a manifeſtation of God there was, as obliged Men to the greateſt Ve<g ref="char:EOLhyphen"/>neration of Him: and what the Son of God did, was moſt God-like. Such an One is He, who is the Supream in the Spiritual Kingdom of God, and none Other was either worthy or fit to be Supream but He, who by his Appearance could ſhew us the Father, and recon<g ref="char:EOLhyphen"/>cile us unto Him. Men had ſinn'd againſt God, and ſome Atonement was neceſſary for the expiation of Sin, and reconciling of Sinners. This was the common and true Opinion of all Mankind, who were juſtly ſol<g ref="char:EOLhyphen"/>licitous how God might be appeaſed, and their Pardon be obtained. For this end they at firſt made their Sa<g ref="char:EOLhyphen"/>crifices of Beaſts; but at length deeming them an inſufficient Oblation, they came to offer Men
+<note n="(l)" place="margin">Deorum maximè <hi>Mercu<g ref="char:EOLhyphen"/>rium</hi> colunt, cui certis diebus humanis quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hoſtiis litare fas habent. <hi>Tacit.</hi> de mor. <hi>Germ. Caeſar.</hi> de bell. <hi>Gall.</hi> l. 1. p. 129. <hi>Euſeb.</hi> Orat. in <hi>Conſtat. Tric.</hi> c. 13. <hi>Plin.</hi> Nat. Hiſt. l. 30. c. 1. <hi>Plut.</hi> de defect, Orac.</note>. Their Superſtition was a violence to their Nature, and they ſacrificed their Children
+<note n="(m)" place="bottom">Pſal. 106.37, 38.</note>, (<hi>i.e.</hi> their own Bow<g ref="char:EOLhyphen"/>els) to their Idols. This was the Law and the Opinion of the Gentiles; for, as <hi>Plato</hi> ſays, <hi>The Law is the Opi<g ref="char:EOLhyphen"/>nion of the Country</hi>
+               <note n="(n)" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plato Minos.</hi>
+               </note>: And he adds in the ſame place, That the ſacrificing of Men, was according to the Laws
+<pb n="10" facs="tcp:63585:7"/>of the <hi>Carthaginians;</hi> it was Legal and Holy among them
+<note n="(o)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plato Mino.</hi>
+               </note>. This inhuman and horrid Cuſtom, ſhews how odious Sin was thought to be in the ſight of God; and how difficult it was to appeaſe Him, who was made our Enemy by our Sins. This was the Reaſon of the Death of Chriſt, That He might be a Holy Vi<g ref="char:EOLhyphen"/>ctim offered up to God, as a perfect expiation of the Sins of Men. He gave Himſelf a <hi>Ranſom</hi> for us
+<note n="(p)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Life for Life.</note>, and died to deliver us from Death. Through the power of the ſame Sacrifice, He alſo deſtroyed the Diabolical Superſtitions; and ſaved Men, not only from the Perdition of Hell, but alſo from the tyranny of Satan upon Earth. Through the virtue of this Death, and the Victory he gained over Death, He <hi>deſtroyed Him who had the power of Death, that is, the Devil; and delivered them who were all their Lives ſubject unto bondage</hi>
+               <note n="(q)" place="margin">Heb 2.25.</note>. So that by the Appearance, and Doctrin, and Sufferings of the Son of God, Satan's Kingdom was aboliſhed; and (as one Evidence of it) the dead Bones of the Martyr <hi>Babylas,</hi> diſabled <hi>Apollo Daphnaeus</hi> from giving an Anſwer to <hi>Julian,</hi> who conſulted that Oracle
+<note n="(r)" place="margin">
+                  <hi>Evagrius,</hi> lib. 1. c. 16. <hi>Socrates,</hi> l. 3. c. 18.</note>. Of ſuch Virtue was the Death of Chriſt. for the good of Men; for their Eternal and Temporal Salvation, from the power and malice of the Devil. After this, the Son of God Incarnate ſhew'd Himſelf the Author and Pattern of our Happineſs, by his Reſur<g ref="char:EOLhyphen"/>rection and Aſcenſion. He who was the Divine Word, and Power, and Life, could not ſo yield unto Death as not to be the Conqueror of it; and this He was by Dying, and Riſing from the dead. By this Reſurrection of Jeſus from the dead, Men were led into the proſ<g ref="char:EOLhyphen"/>pect of Eternity, and enabled to look beyond the narrow limits of Time. They ſaw a Life and Death in this World, by Senſe; and they ſaw Life and Im<g ref="char:EOLhyphen"/>mortality in the other World, by Faith. Chriſtians
+<pb n="11" facs="tcp:63585:7"/>fear only that which is the Second, and Eternal Death: And to avoid that, they take care how they live here; but fear not to die and go from hence. This, which is their Reproach among the Heathen, is their Wiſdom: <hi>While they fear to die after this Death, they do not fear to dye this Death,</hi>
+               <note n="(s)" place="margin">Et dum mori poſt mortem timent interim mori non ti<g ref="char:EOLhyphen"/>ment. <hi>Minu. Fe.</hi> p. 26.</note> The ſame Jeſus who had promiſed Life unto Others, by his Reſurrection mani<g ref="char:EOLhyphen"/>feſted himſelf the Lord of Life
+<note n="(t)" place="margin">Joh. 11.25, 26.</note>; and no better or greater demonſtration could there be of a future and bleſſed Immortality
+<note n="(u)" place="margin">2. Tim. 1. 10.</note>. Of Old it had been common among Pagans, to Deifie dead Men (as <hi>Athanaſius</hi>
+               <note n="(x)" place="margin">
+                  <hi>Athanaſius</hi> contra Gentes.</note> and others tell us); and their Gratitude tranſported them into Idolatry. But He whom we worſhip as the Son of God, dwelt in Human Nature, and was the Son of Man, and ſhew'd by his Reſurrection that his Nature was Divine
+<note n="(y)" place="margin">Rom. 1.4.</note>. After his Reſurrection He aſcended into Heaven in the Humane Nature, and is Enthroned at the Right Hand of the Majeſty on High; and 'tis in the Power of Him alone to give Salvation unto the Souls of Men, and to beſtow Immortality upon thoſe whom He hath Redeemed. This is the utmoſt Per<g ref="char:EOLhyphen"/>fection which Human Nature is capable of; and ſuch a State, as even that Nature muſt be improved, that it may be capable of it. But the Son of God, is able to exalt us unto that place and ſtate whither He is gon before Us; and there We ſhall be <hi>for ever with the Lord</hi>
+               <note n="(z)" place="margin">1 Theſ. 4.17.</note>, and <hi>like unto Him</hi>
+               <note n="(a)" place="margin">Phil. 3.21. 1 Joh. 3.2.</note>. Thus is the Son of God, the Author and Pattern of the Duty and Happineſs of Men; who was Born, and Lived, and Dy'd, and Roſe again, and Aſcended into Heaven. There all Power is committed unto Him
+<note n="(b)" place="margin">Mat. 28.18. Phil. 2.6, &amp;c. Heb. 1.4, &amp;c.</note>, and He is the Supream Lord of that Kingdom which is eſta<g ref="char:EOLhyphen"/>bliſhed by the Goſpel. So Great is the Perſon of our Teacher and Redeemer; and He is no leſs our Only Maſter, than our Only Saviour
+<note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Nazianz.</hi> p. 597</note>. For his Doctrin is
+<pb n="12" facs="tcp:63585:8"/>the Standard of our Faith, and Himſelf is both the Subject and Author of the Goſpel. To the Conduct of Him we are to give up our ſelves; <hi>And if Chriſt alone be to be heard, we are not to regard what Any before us have thought; but what Chriſt, who was before all, has declared</hi>
+               <note n="(d)" place="margin">
+                  <p>Quare ſi ſolus Chriſtus audi<g ref="char:EOLhyphen"/>endus eſt, non debemus attendere quid aliquis ante nos ſaciendum putaverit, ſed, quid, qui ante omnes eſt Chriſtus prior fecerit. <hi>Cyprian.</hi> L. 2. Ep. 3. p. 56. de Haer. Bapt. p. 321. Contra Ep. <hi>Steph.</hi> p. 330.</p>
+                  <p>Non eſt autem de Conſuetudine praeſcribendum, ſed ratione Vincen<g ref="char:EOLhyphen"/>dum. <hi>Quir. Fratri,</hi> p. 332. Sentent. Epiſe. de Haer. bapt. <hi>Caſtus</hi> à <hi>Sicca,</hi> p. 338. <hi>Libofus</hi> ab <hi>Agra,</hi> p. 339. <hi>Felix</hi> à <hi>Bulacc.</hi> 342.</p>
+               </note>. We are the Servants of Chriſt, and of God; and we muſt follow Him, who is the Son of God, and the Light of the World
+<note n="(e)" place="margin">Joh. 1.4, 9. 12.46. 8.12.95.</note>. He is the <hi>Teacher come from God</hi>
+               <note n="(f)" place="margin">Joh. 3.2.</note>, and was qualified for his Undertaking by, his Nature; and we who hearken unto Him are <hi>all taught of God</hi>
+               <note n="(g)" place="margin">Iſa. 54.13. <hi>Lactant.</hi> l. 4. c. 24.</note>. He alone is the Great Teacher, who did not learn what He taught; and ſo began to Teach without being firſt a Diſciple
+<note n="(h)" place="margin">
+                  <hi>Ambroſe</hi> de Offic. l. 1. c. 1.</note>: And the Reaſon of this is manifeſt from his Nature, foraſmuch as. He was the Eternal Son of God. 'Twas in theſe laſt Days, that He was Born; but he is ſuppoſed by the Ancients, long before to have Appear'd, and always to have been the Teacher of Men
+<note n="(i)" place="margin">
+                  <hi>Iren.</hi> l. 4. c. 26, 27. <hi>Tertul.</hi> adv. <hi>Herm.</hi> p. 231, 240, 395, 400, 723, 725. <hi>Orig.</hi> l. 6. p. 329. &amp; l. 3. p. 119.</note>. He manifeſted God unto Men; and of Him it is ſaid by <hi>Irenaeus, The Father is that which is Inviſible of the Son; and the Son is that which is Viſible of the Father</hi>
+               <note n="(k)" place="margin">Inviſibile etenim filij Pater, Viſibile autem patris Filius. Lib. 4. c. 14.</note>. He is called by <hi>Euſebius, The Chief of Philoſophers, and the Teacher of Religious Men</hi>
+               <note n="(l)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Eu<g ref="char:EOLhyphen"/>ſeb.</hi> Dem. Evang. l. 3. c. 6.</note>. As the Kingdom of God is the Per<g ref="char:EOLhyphen"/>fection of Religion; ſo He is the Supream Lord of that Kingdom, who is the only Author of that Doctrin, and the Son of God Incarnate. We Chriſtians are not there<g ref="char:EOLhyphen"/>fore the Diſciples of Men, but of God and his Son; and are Baptized <hi>into the Name of the Father, Son, and
+<pb n="13" facs="tcp:63585:8"/>Holy Ghoſt:</hi> And that Initiation obligeth us to <hi>obſerve whatever Chriſt has commanded</hi>
+               <note n="(m)" place="margin">Matt. 28.19, 20. V. <hi>Grot.</hi> ad loc.</note>. His Miniſters did not Baptize into their own Names, but into their Ma<g ref="char:EOLhyphen"/>ſters; as <hi>S. Paul,</hi> in the juſtification of Himſelf, ſaid
+<note n="(*)" place="margin">1 <hi>Cor.</hi> 1.14, 15.</note>, Chriſt had taught them to call no man Father, or (which is the ſame) Maſter, upon Earth; for that, One is their Maſter, even Chriſt; and all they were Bre<g ref="char:EOLhyphen"/>thren. 'Tis not therefore any Perſon, or Number, or Succeſſion of Men; that can preſcribe unto our Faith: There is but <hi>One Lord,</hi> as there is but <hi>One Faith, and One Baptiſm, and One God</hi>
+               <note n="(n)" place="margin">Eph. 4.5, 6.</note>. We know in whom we be<g ref="char:EOLhyphen"/>lieve, and in whom we confide; to whom we ſubject our Conſciences, and from whom we expect our Salvation. 'Tis from that Glorious and Divine Perſon, who is the Son of God; and 'tis from <hi>God manifeſted in the Fleſh</hi>
+               <note n="(o)" place="margin">1 Tim. 3.16.</note>. Such is the Perſon; and ſuch is the Glory of the <hi>Supream Lord.</hi>
+            </p>
+            <p n="3">3. I am to give an Account of the <hi>Office</hi> of his <hi>Inferior Miniſters.</hi>
+            </p>
+            <p>In the ſame Senſe in which this Order and Succeſſion of Men are Miniſters of Chriſt's Kingdom, they are Teachers of his Religion; and this is the greateſt Honor, ſince the Son of God Himſelf was the <hi>Summus Eccle<g ref="char:EOLhyphen"/>ſiaſtes</hi>
+               <note n="(p)" place="margin">
+                  <hi>Eraſin.</hi> de rat. Concion, l. 1. Matt. 4.17.</note>, the Chief Preacher: And we (according to our ſeveral proportions) are his Servants and Succeſ<g ref="char:EOLhyphen"/>ſors in the Office of preaching the Kingdom of God. <hi>We are Ambaſſadors for Chriſt, as though God did be<g ref="char:EOLhyphen"/>ſeech Men by us; we pray them in Chriſt's ſtead, to be reconciled unto God</hi>
+               <note n="(q)" place="margin">2 Cor 5.20.</note>. This Office we are to have in high Eſteem, and to account it our Dignity, that this Miniſtry is committed unto us: For (to uſe the Words of that Book, call'd the Inſtitution of a Chriſtian Man) <hi>ſurely the Office of Preaching is the chief and moſt prin<g ref="char:EOLhyphen"/>cipal Office, whereunto Prieſts and Biſhops be called by Authority of the Goſpel</hi>
+               <note n="(r)" place="margin">P. 44.2.</note>. This is the Means to lead
+<pb n="14" facs="tcp:63585:9"/>men into all Truth, and to communicate to them the knowledge of Heavenly Wiſdom; to make men Re<g ref="char:EOLhyphen"/>ligious, and that is to make them Bleſſed. <hi>The Doctrin of our Religion is delivered in the Goſpel of our Saviour; and the Hiſtory of Chriſt, is the Inſtitution of a Chri<g ref="char:EOLhyphen"/>ſtian.</hi> The Office of the Miniſters of the Goſpel is to teach men the Knowledge, and to conduct them in their Imitation of Chriſt; that by ſuch help Chriſtians may <hi>Learn of Chriſt to Live that they may be Happy.</hi> This is ſuch a Proviſion for the advancement of Wiſ<g ref="char:EOLhyphen"/>dom and Virtue, as never was among any ſort of men, but Jews and Chriſtians; where whole Nations are taught to Live; and no greater Benefactors can there be unto Mankind. S. <hi>Auguſtin</hi> juſtly Objects againſt the Gods of the Heathens, That they never delivered Rules of Living to their Votaries: But on the contrary debauch'd them, by the Immoralities of their Worſhip
+<note n="(s)" place="margin">
+                  <hi>Ang.</hi> de Civ. D. l. 2. c. 6, 2, 28.</note>. <hi>Let them ſhew</hi> (ſays he) <hi>in what places, Officers were appointed to teach the Precepts of Virtue; and where the People were aſſembled to Learn them, among the Gentiles; as it is in the Churches or<g ref="char:EOLhyphen"/>dained to this purpoſe, wherever the Chriſtian Religion does obtain
+<note n="(t)" place="margin">
+                     <hi>Aug.</hi> de C.D. l. 2. c. 6.</note>. From the Infernal Toke and Penal So<g ref="char:EOLhyphen"/>ciety of <g ref="char:V">Ʋ</g>nclean Powers, men are delivered by the Name of Chriſt; and wicked and ungrateful Men, ſlaves unto the Accurſed Spirit, complain, that others are tranſlated from that Night of pernicious Impiety, unto the Light of Life and Godlineſs: They complain, that Men gather unto our Churches, that they may Learn to Live well here, that they may live happily for ever.</hi> In thoſe places the <hi>Holy Scriptures, the Doctrin of Righteouſneſs ſounds from on high, in the preſence of all; and they that obey, Hear unto Life, and they who obey not, Hear unto Judg<g ref="char:EOLhyphen"/>ment</hi>
+               <note n="(u)" place="margin">
+                  <hi>Aug.</hi> de C.D. l. 2. c. 28.</note>. He that underſtands the Hiſtory of Jeſus Chriſt; He that Reverences God and Loves men,
+<pb n="15" facs="tcp:63585:9"/>muſt magnifie this Office: For by it we are made Wiſe and Holy unto Salvation. <hi>Go teach all Nations, &amp;c.</hi>
+               <note n="(x)" place="margin">Matt. 28.19, 20.</note>, was the Commiſſion our Lord gave unto his Apo<g ref="char:EOLhyphen"/>ſtles; and in the performance of their Duty, He pro<g ref="char:EOLhyphen"/>miſed to be with them unto the end of the World. The whole of their Office, and of all Eccleſiaſtical Miniſters, is comprehended by the Apoſtle in <hi>Prayer and the Miniſtry of the Word</hi>
+               <note n="(y)" place="margin">Act. 6.4.</note>; and to this Office they are ſeparated by their Ordination. <hi>Through this Mini<g ref="char:EOLhyphen"/>ſtration, the Churches of Chriſt, compared with other Aſſemblies of Men, are as the Lights of the World</hi>
+               <note n="(z)" place="margin">
+                  <hi>Origen.</hi> cont. <hi>Celſ.</hi> l. 3. p. 128.</note>; and according to the ſucceſs of this Work, ſo is the Increaſe of Wiſdom and Righteouſneſs among men. This is a <hi>Rational Service</hi>
+               <note n="(a)" place="margin">Rom. 12.1.</note>, by which we are the Miniſters of God to men, for their Spiritual and Eternal Good; and by which the Communion be<g ref="char:EOLhyphen"/>tween God and Men is maintained. For by Prayer Men make their Addreſſes unto God; and by his Word, God makes his Addreſſes unto Men. By this Sacred Intercourſe Men aſſimulate unto God, and receive Influences from Him; and thus, by the Exer<g ref="char:EOLhyphen"/>ciſes of Religion, they are prepared for the enjoyment of Happineſs. For this end, when the Son of God had fulfilled his Miniſtry, <hi>He aſcended up on High, and led Captivity Captive, and gave Gifts unto Men;</hi> viz. <hi>He gave ſome Apoſtles, and ſome Prophets, and ſome Evan<g ref="char:EOLhyphen"/>geliſts, and ſome Paſtors and Teachers: For the perfect<g ref="char:EOLhyphen"/>ing of the Saints, for the work of the Miniſtry, for the edifying of the Body of Chriſt</hi>
+               <note n="(b)" place="margin">Eph. 4.8, 11, 12.</note>. Some extraordinary, and ſome ordinary Miniſters of Chriſt; and the ſeve<g ref="char:EOLhyphen"/>ral Orders and Degrees of both have been in the Chri<g ref="char:EOLhyphen"/>ſtian Church; as the Records of Ancient Times atteſt, and as the Nature of things does require. Theſe all are <hi>Miniſters by whom we believe, according as God gave unto every man</hi>
+               <note n="(c)" place="margin">1 Cor. 3.5.</note>. So far therefore as the Kingdom
+<pb n="14" facs="tcp:63585:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:63585:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:63585:11"/>of God, <hi>i. e.</hi> the Intereſt of True Religion (<hi>for the Kingdom of God is righteouſneſs, and peace, and joy in the Holy Ghoſt</hi>
+               <note n="(d)" place="margin">Rom. 14.17.</note>): So far, I ſay, as True Religion, and the <hi>Power of Godlineſs</hi>
+               <note n="(e)" place="margin">2 Tim. 3.5.</note> does prevail upon the Hearts and Lives of men, and ſo many as thoſe men are upon whom it prevails; ſo far Chriſt's Kingdom is ſet up, and He reigns among men. This is what we are to expect by our Attendance upon the Appointments of God, and putting our ſelves under the conduct of the Guides of Souls. When <hi>Chriſt Lives in us</hi>
+               <note n="(f)" place="margin">Gal. 2.20.</note>, then are we Subjects of his Spiritual Kingdom; and He is with effect our Lord, and we are in Truth his Ser<g ref="char:EOLhyphen"/>vants. Thus is the Son of God Incarnate the only <hi>Supream Lord:</hi> Thus is the Eccleſiaſtical Hierarchy, the <hi>Inferior Miniſters</hi> of his Spiritual Kingdom: And thus are Men, by the power of Godlineſs, Subjects of that Kingdom.</p>
+            <p>Hitherto I have given an Account, 1. Of the <hi>Nature</hi> of this <hi>Spiritual Kingdom:</hi> 2. Of the <hi>Glory</hi> of its <hi>Su<g ref="char:EOLhyphen"/>pream Lord:</hi> And, 3. of the <hi>Office</hi> of his <hi>Inferior Mi<g ref="char:EOLhyphen"/>niſters.</hi>
+            </p>
+            <p>The <hi>Application</hi> of what I have ſaid, ſhall be made, 1. To thoſe who are the <hi>Miniſters:</hi> And, 2. To thoſe who are the <hi>Subjects</hi> of this Spiritual Kingdom, of which Chriſt is the Lord.</p>
+            <p n="1">1. By what I have ſaid, thoſe who have the Ho<g ref="char:EOLhyphen"/>nour to be <hi>Miniſters</hi> of the Spiritual Kingdom of Chriſt, are obliged, 1. To be <hi>Faithful</hi> in their Office: And, 2. To be <hi>Humble</hi> towards their Brethren.</p>
+            <p n="1">1. Thoſe who are <hi>Miniſters</hi> of the Spiritual King<g ref="char:EOLhyphen"/>dom of Chriſt, are obliged to be <hi>Faithful</hi> in their Office.</p>
+            <p>We are entruſted with the Goſpel of Chriſt, and with the Souls of Men; and we ſenſibly cry out with the Apoſtle, <hi>Who is ſufficient for theſe things</hi>
+               <note n="(g)" place="margin">2 Cor. 2.16.</note>? But <hi>our ſufficiency is of God, who hath made us Able Miniſters
+<pb n="17" facs="tcp:63585:11"/>of the New Teſtament.</hi>
+               <note n="(h)" place="margin">2 Cor. 3.5, 6.</note> At the beginning, the Miniſters of the Goſpel were endowed with the extraordinary Gifts of the Holy Ghoſt; and per<g ref="char:EOLhyphen"/>formed their Duty by a Wiſdom and Inclination, that they were Inſpired with. But, as We pretend not to ſuch Miraculous Gifts; ſo we are now pre<g ref="char:EOLhyphen"/>pared by the Experience of a Religious Life, and by the Study of Divine Truth. With theſe Advan<g ref="char:EOLhyphen"/>tages we offer our ſelves to Examination, and the Cenſure of thoſe whom God has Appointed to Ordain Miniſters, and to Judge what Perſons are fit for that Office. We do not Intrude our ſelves upon the Sacred Function, without a regular Calling and Approbation; and therefore we humbly expect, that God will Accept and Proſper our Endeavours. We know that Men are to <hi>account of us, as the Mi<g ref="char:EOLhyphen"/>niſters of Chriſt, and the Stewards of the Myſteries of God: Moreover, we know it is required in Stewards, that a Man be found Faithful</hi>
+               <note n="(i)" place="margin">1 Cor. 4.1, 2.</note>. We conſider, that we are (according to our proportion) <hi>Watch men unto the Houſe of Iſrael;</hi> and <hi>that if we give not Warning unto the Wicked Man, He ſhall die in his Sin; but his Blood will be required at Our hands: And if we do give Warning to the Wicked, and He turn not, He ſhall die in his Sin, and We have delivered our Souls</hi>
+               <note n="(k)" place="margin">Ezek. 18.17, 18, 19.</note>. Our great Care therefore is, To keep back nothing that is neceſſary or profi<g ref="char:EOLhyphen"/>table; but to Teach and Inculcate the Duties of <hi>Repentance towards God, and Faith towards our Lord Jeſus Chriſt;</hi> that we may be <hi>pure from the Blood of all Men</hi>
+               <note n="(l)" place="margin">Act. 20.20, 21, 26.</note>. We are Dignified by our Character; and our Sollicitude is, that we may act ſuitably to it. We are ſenſible what will befall us, If while a Heathen was applauded by Heathens, for doing
+<pb n="18" facs="tcp:63585:12"/>Honour to a vile Office by his Virtue; we ſhould render a Sacred Office contemptible by our Vice
+<note n="(m)" place="margin">
+                  <hi>Eraſm.</hi> de rat. Concion. l. 1. p. 80.</note>. I have noted, that our Religion is, by ſome of the Ancients, call'd <hi>Philoſophy:</hi> And we remember, that <hi>ſuch as the Philoſophy is, ſuch ought the Profeſſor of it to be</hi>
+               <note n="(n)" place="margin">Qualis eſt Philoſophia, talem decet eſſe Profeſſorem. <hi>Eraſm.</hi> ibid. p. 62, &amp;c.</note>: And <hi>that to aſcend to a higher degree of Dignity, and not to aſcend to a higher degree of Virtue, is to deſcend, and not to aſcend</hi>
+               <note n="(o)" place="margin">Aſcendere ad dignitatis gra<g ref="char:EOLhyphen"/>dum, &amp;c non aſcendere and ſublimes Virtutes, deſcendere eſt verius quam aſcendere. Ibid. p. 152.</note>. We ſtudy to Affect our ſelves with the Importance of our Office, that others may be affe<g ref="char:EOLhyphen"/>cted by our Exerciſe of it; knowing that none can <hi>ſpeak to the Heart, but from the Heart</hi>
+               <note n="(p)" place="margin">Nullus autem poteſt loqui ad Cor populi niſi loquatur ex Corde. Id. p. 155.
+<q>
+                     <l>Ut ridentibus arrident, ſic flentibus ad<g ref="char:EOLhyphen"/>ſunt</l>
+                     <l>Humani vultus, ſi vis me flere, dolen<g ref="char:EOLhyphen"/>dum</l>
+                     <l>Primum ipſi tibi tunc tuà me inſor<g ref="char:EOLhyphen"/>tunia laedunt.</l>
+                     <bibl>
+                        <hi>Hor.</hi> de Art. Poet.</bibl>
+                  </q>.</note> We are aware, that 'tis ſufficient Honour to be the <hi>faithful Shepherd of a ſmall Flock:</hi> And <hi>that all Souls are equally precious in the ſight of God.</hi> We are aware that <hi>our Sins, reſt not in our own perſons, but ſpread among the People; and that 'tis not poſſible we ſhould be vicious alone,</hi> as <hi>Iſidore</hi> ſpeaks
+<note n="(q)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Iſid.</hi> Ep. 3 22.</note>. We have a double Care upon us, to be Good Men, and Faithful Guides: For we know well, that <hi>The Eccleſiaſtical Dignity makes not any One a Chriſtian,</hi> as <hi>S. Jerom</hi> ſays
+<note n="*" place="margin">Non omnes Epiſcopi Epiſ<g ref="char:EOLhyphen"/>copi ſunt, non facit Eccleſi<g ref="char:EOLhyphen"/>aſtica dignitas Chriſtianum. <hi>Hieren.</hi> Ep, 1.</note>. We feel the burden of the Office that is upon us, and call to mind our great Account; and ſtudy the Converſion, and not the Applauſe of Men. The Sin, and the Impenitency of our Charge, are our ſhame and ſorrow: We mourn over thoſe who choſe Death, and anxiouſly enquire into our ſelves, whether we be not guilty of their Death. This conſideration of our Danger makes us Sigh, and Pray; and we daily re<g ref="char:EOLhyphen"/>commend them unto the Mercy of God, who are,
+<pb n="19" facs="tcp:63585:12"/>perhaps, our Enemies becauſe we tell them the Truth, and call upon them to Amend. But All that we can do, by a whole Life of Study and Prayer, and Care and Diligence, is, that we may <hi>ſave ſome, and that after we have preached unto others, our ſelves may not be caſt-away</hi>
+               <note n="(r)" place="margin">1 Cor. 9.27.</note>. Thus we ſpend our Days, and our Selves, in Fears and Labours; and are tranſported with Joy, when we find we do any good unto thoſe Souls, which are redeem'd by the Blood of the Son of God. If thoſe who belong unto our Charge knew, how much ſollicitude for them fill'd our Hearts; they would almoſt out of Pity to us, Hearken, that their Souls might Live. But <hi>whether Men will Hear, or whether they will forbear</hi>
+               <note n="(s)" place="margin">Ezek. 2.5, 7.</note>, the Obligation abides upon us; and we muſt bear with the Indiſcretion and ill Uſage of the moſt Perverſe, leſt we harden them in Sin, by Ours. Thus we <hi>take heed unto our Selves, and to our Doctrin, and continue in it, that ſo doing we may</hi> (if poſſible) <hi>ſave our ſelves, and thoſe that hear us</hi>
+               <note n="(t)" place="margin">1 Tim. 4.16.</note>.</p>
+            <p n="2">2. We muſt be <hi>Humble</hi> to our Brethren, and look more upon the Labour, than the Dignity of our Vocation; as the Apoſtle did, when he ſaid, we are <hi>your Servants for Jeſus ſake.</hi> Herein we follow too the Example of our Maſter, <hi>who took upon Him the form of a Servant, and came not to be miniſtred unto, but to miniſter
+<note n="(u)" place="margin">Mat. 20.28.</note>. He preſided with the Power of a Lord; not as over Slaves, but as over Diſciples; and being Gracious and Gentle, He loved them as Brethren,</hi> ſaith S. <hi>Cyprian</hi>
+               <note n="(x)" place="margin">Diſcipulis non ut ſervis dominicâ po<g ref="char:EOLhyphen"/>teſtate praefuit, ſed benignus &amp; mitis fraternâ cos charitate dilexit<g ref="char:punc">▪</g> 
+                  <hi>Cyprian.</hi> de bono Patient. p. 199.</note>. This Meekneſs notwithſtanding, muſt not hinder that Severity which Faithfulneſs obliges us to: For we muſt ſometimes <hi>Rebuke ſharply,</hi>
+               <pb n="20" facs="tcp:63585:13"/>when need does require, and when Good can be done thereby. <hi>Like Chirurgeons, who are really moſt Tender, when they ſeem moſt Cruel,</hi> as S. <hi>Jerom</hi> ſays
+<note n="(y)" place="margin">Putridae carnes ſerro indigent &amp; cauterio, nec eſt medicinae culpa ſed vulneris: Cum clementi crudeli<g ref="char:EOLhyphen"/>tate non parcit medicus, ut parcat ſaevit, ut miſereatur. <hi>Hieron.</hi> Ep. 147.</note>. We cannot perform this Office without Honour; but 'tis not Honour which we ſeek, in the performance of it; we deſign the Profit of thoſe we preſide over, and value our ſelves by their Im<g ref="char:EOLhyphen"/>provement
+<note n="(z)" place="margin">Eccleſia mihi credita, cujus utilitatibus ſervio, cui non tam prae<g ref="char:EOLhyphen"/>eſſe quam prodeſſe deſidero. <hi>Aug.</hi> Ep. 160.</note>. This made the Great Apoſtle ſay, <hi>Though I be free from all Men; yet have I made my ſelf Servant unto all, that I might gain the more</hi>
+               <note n="(a)" place="margin">1 Cor. 9.19.</note>. 'Tis no Humility in Him who is properly a <hi>Servant,</hi> to Act as ſuch, or to ſuffer himſelf to be uſed as ſuch by his Maſter: But where Mens <hi>Education</hi> and <hi>Office</hi> are a Dignity, 'tis a voluntary and Chriſtian Abaſement, to do and ſuffer any thing, that They may be Uſeful. Such an <hi>Education</hi> is neceſſary to Us, who Miniſter about Holy Things: And while any ſort of Learn<g ref="char:EOLhyphen"/>ing is thought conſiderable, Ours will be ſo. Our <hi>Office</hi> is like unto our Education; and that under a double conſideration, as <hi>Human,</hi> and as <hi>Divine.</hi> If it were no other than a <hi>Human</hi> Inſtitution; yet were it an Honourable Employment, to teach Men Wiſdom and Virtue: And ſo long as thoſe Perfe<g ref="char:EOLhyphen"/>ctions of Men are had in juſt Eſteem, our Office cannot be deſpiſed. But our Office is not only Excellent, but alſo <hi>Sacred;</hi> and in this performance We are the Immediate Servants of the Moſt High God and our Saviour. Whoſoever therefore has any Reverence for Religion, muſt own, that there is no ſmall degree of it due to the Miniſters of Religion: And if <hi>God</hi> be Venerable, it cannot but be a high
+<pb n="21" facs="tcp:63585:13"/>Honour to be his <hi>Prieſts</hi>
+               <note n="(b)" place="margin">1 Sam. 9.6.</note>. We are therefore advanced by our Character, that we may deſcend by our Humility; and <hi>He that humbleth himſelf ſhall be exalted</hi>
+               <note n="(c)" place="margin">Luc. 14.11.18.14.</note>. We have this Obligation, and Encou<g ref="char:EOLhyphen"/>ragement, and Neceſſity, for Abaſing our ſelves in doing good unto the Souls of Men: And if we ſhould be ill uſed, we muſt <hi>not render Evil for Evil, but remember the Example of our Lord Jeſus, who endured the contradiction of Sinners againſt Himſelf; who when He was reviled, reviled not again; when He ſuffered, He threatned not</hi>
+               <note n="(d)" place="margin">Heb. 12.3.1 Pet. 2.23.</note>. Thoſe very Per<g ref="char:EOLhyphen"/>ſons who ſcorn, or hate us, are part of thoſe whoſe Souls we are charged with; and we muſt upon peril of our Souls, Diſcharge our ſelves. Let us there<g ref="char:EOLhyphen"/>fore Mourn for thoſe who ſin, and Pity thoſe who are miſerable: Let us remember they are our Bre<g ref="char:EOLhyphen"/>thren by Nature and Religion, and let us ſtoop to any thing, that they may come to Repentance, and be ſaved. <hi>Chriſt humbled Himſelf unto the death, even the death of the Croſs;</hi> and We imitate Him but very faintly, when we willingly ſuffer any Indignity, purſuant of his Deſign, <hi>to ſave a Soul from death</hi>
+               <note n="(e)" place="margin">Jam. 5.19, 20.</note>.</p>
+            <p>Thus the Doctrin of the Text may be applied unto the <hi>Miniſters</hi> of Chriſt's Spiritual Kingdom; for the perſuading them, 1. To be <hi>Faithful</hi> in their Office; and, 2. <hi>Humble</hi> towards their Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>
+               <hi>Secondly,</hi> This Doctrin may be applied to the <hi>Subjects</hi> of this Kingdom; for the perſuading them, 1. To <hi>Reverence</hi> their <hi>Guides:</hi> And, 2. <hi>Live</hi> their <hi>Religion.</hi>
+            </p>
+            <pb n="22" facs="tcp:63585:14"/>
+            <p n="1">1. The <hi>Subjects</hi> of Chriſt's Spiritual Kingdom, <hi>i.e.</hi> the Profeſſors of his Religion muſt be perſuaded, to <hi>Reverence</hi> the <hi>Guides</hi> of their Souls. As there is a God, to whom our Services are due, and upon whom our Intereſt depends; ſo is it neceſſary we ſhould Worſhip that God, and be Inſtructed how we may be in Favour with Him. There muſt there<g ref="char:EOLhyphen"/>fore be ſuch as Miniſter about Holy Things; and, the reaſon of all Mankind hath taught them, That ſuch Perſons are neceſſary and venerable. <hi>Ariſtotle,</hi> in his <hi>Politicks</hi> enquires, how many things there are, without which a Nation cannot ſubſiſt; among others, he ſays, The Fifth and Chief thing is, <hi>The Care of Holy Things, which is call'd Prieſthood</hi>
+               <note n="(f)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ariſt.</hi> Pol. l. 7. §. 41.</note>. The Deſigna<g ref="char:EOLhyphen"/>tion of ſuch (he ſays) is manifeſt, <hi>That no Plowman, or Artificer, ought to be a Prieſt; becauſe the Gods ought to be Honoured by the Nation</hi>
+               <note n="(g)" place="margin">Id. §. 43.</note>. The Office is ſacred, and the Perſons ought to be ſo; and care muſt be taken, that God may be honoured by the choice of his Miniſters. The Firſt Precept of thoſe golden Verſes aſcribed to <hi>Pythagoras,</hi> is to <hi>Honour the Gods, according to their Natures</hi>
+               <note n="(h)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>. In order unto that, ſays <hi>Hierocles,</hi> a Prieſt is neceſſary; becauſe he is ſuppoſed to have an Underſtanding and a Temper fit for it: <hi>He only is Wiſe, He only is Acceptable to the Gods, He only knows how to pray</hi>
+               <note n="(i)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Hieroc.</hi> p. 25.</note>. So he. And thus much is unqueſtionably true, That 'tis the greateſt Intereſt of Men, to ſecure the Favour of God; and that thoſe who have ſtudied the Nature of Religion, are beſt able to direct Men how to do this. But 'tis the duty of the Miniſters of Religion, to Underſtand,
+<pb n="23" facs="tcp:63585:14"/>and Teach, and Exemplifie it
+<note n="(k)" place="margin">V. Collect. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ordin of Biſh. Pr. and Deac.</note>; and from them Men can moſt advantagiouſly be informed. As every Inſtitution of Virtue and Wiſ<g ref="char:EOLhyphen"/>dom is Divine, (as <hi>Plutarch</hi> notes
+<note n="(l)" place="margin">
+                  <hi>Plut.</hi> de lib. Educ. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>;) ſo the Inſtitution of Religious Vir<g ref="char:EOLhyphen"/>tue and Wiſdom is moſt Divine. This is, in an eminent ſenſe, Eternal and Divine; and the Advantage of it is Great and Everlaſting. Nothing elſe is ſo conſiderable as this; and this a Man cannot be deprived of. A mans Learning and Religion will abide with him, when all other things fail; and no Adverſary can take them away from him. Some things are conſumed by Time, and others by Uſe; but Piety is improved by Exerciſe and Continuance. This Benefit we receive from the Miniſters of the Goſpel, and Gratitude obliges us to a reſpect for them. The Office is neither un<g ref="char:EOLhyphen"/>neceſſary or unprofitable, as ſome Enemies of Reli<g ref="char:EOLhyphen"/>gion pretend: But as <hi>Fools only hate knowledge</hi>
+               <note n="(m)" place="margin">Pro. 1.22.</note>; ſo Irreligious perſons only hate the Miniſters of Reli<g ref="char:EOLhyphen"/>gion
+<note n="(n)" place="margin">Jo. 3.22;</note>. All others find by Experience, how much they owe unto their Labours; and reverence thoſe as Guardian-Angels, who watch for their Souls
+<note n="(o)" place="margin">Rev. 2.2, 8.</note>. <hi>Of Old, when Zeal for Chriſtianity was high, the Vene<g ref="char:EOLhyphen"/>ration of Biſhops was ſo too: They were not only e<g ref="char:EOLhyphen"/>ſteemed among the People, but among Princes, and almoſt adored. Witneſs the Caſe of the Emperour</hi> Theodoſius, <hi>who ſubmitted to the Cenſure of S.</hi> Am<g ref="char:EOLhyphen"/>broſe; <hi>and that Authority the Biſhop obtained by being a Biſhop indeed</hi>
+               <note n="(p)" place="margin">
+                  <hi>Eraſm.</hi> de rat. Conc. l. 1. p. 123. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Iſid.</hi> Ep. 127.</note>. The Duty of a Miniſter of Chriſt, conciliates a reſpect to Him, among all who who honour God and Religion; and no<g ref="char:EOLhyphen"/>thing can diminiſh ſuch an One among wiſe and
+<pb n="24" facs="tcp:63585:15"/>good Men, but his doing what is contrary to his Character
+<note n="(q)" place="margin">
+                  <hi>Eraſm.</hi> de rat. Conc. l. 1. p. 164, &amp;c. &amp; p. 73.</note>. But <hi>the Cheerfulneſs and Alacrity with which a Miniſter of Chriſt is to perform his Office, has a dependance upon the Peoples performing their Duty; and if the People ſhew themſelves ſincerely Teachable, God will not ſuffer them to want Faithful Teachers: And it comes to paſs often, for the Sins of the People, That inſtead of a King, God ſends them a Tyrant; and inſtead of a Shepherd, He ſends them a Wolf</hi>
+               <note n="(r)" place="margin">
+                  <hi>Eraſm.</hi> p. 177, 178. Vid. Conſecrat. of Biſhops.</note>. Before therefore Chriſtians break forth into Contempt and Indignation againſt their Teach<g ref="char:EOLhyphen"/>ers, they ſhould do well ſtrictly to examin them<g ref="char:EOLhyphen"/>ſelves, and ſee if ſome Sin of theirs, in deſpiſing a Faithful Guide, or being Obſtinate againſt his good Counſel; has not provoked God, to puniſh them with a blind and vicious One. We Miniſters are no more than <hi>Men, of like Paſſions</hi>
+               <note n="(s)" place="margin">
+                  <hi>Act.</hi> 14.15.</note> and Infir<g ref="char:EOLhyphen"/>mities with others: But our Office is Divine, and our Labour difficult, and our Account ſevere: Therefore the People committed to our Charge, ought to Excuſe the defects of our Nature; to pray for the Succeſs of our Miniſtry; and to Reverence the Character of the Servants of the Moſt High God. <hi>Jamblicus</hi> tells us, That <hi>there is a double perſon in a Prieſt; one Human, which He has from Nature; and the other Divine, which He has from his Conſecra<g ref="char:EOLhyphen"/>tion</hi>
+               <note n="(t)" place="margin">
+                  <hi>Jamb.</hi> de Myſt.</note>. After him, <hi>Iſidore</hi> ſays much the ſame thing, <hi>That Prieſthood is a Medium between the Divine and Human Na<g ref="char:EOLhyphen"/>ture</hi>
+               <note n="(u)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Iſid.</hi> Ep. 20.</note>. Upon this account the Apoſtle ſays, <hi>We beſeech you Brethren, to know them which Labour among you, and are over you in the Lord, and Admoniſh you; and to eſteem them very highly in Love for their Works ſake; and
+<pb n="25" facs="tcp:63585:15"/>to be at Peace among your ſelves</hi>
+               <note n="(x)" place="margin">1 Theſ. 5.20.</note>. For ſuch Addreſs themſelves to Men, in the Name, and by the Com<g ref="char:EOLhyphen"/>mand of Chriſt; and Chriſt conſiders their Uſage, and his own. <hi>He that receiveth you, receiveth me,</hi> (ſays our Saviour) <hi>and he that receiveth Me, re<g ref="char:EOLhyphen"/>ceiveth Him that ſent me
+<note n="(y)" place="margin">Matt 10.40.</note>: And he that receiveth a Prophet in the Name of a Prophet, ſhall receive a Prophets reward.</hi> On the contrary, <hi>He that deſpiſeth you, deſpiſeth Me; and he that deſpiſeth Me, deſpiſeth Him that ſent Me</hi>
+               <note n="(z)" place="margin">Luc. 10.16.</note>. The Contempt of the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, is the Contempt of Chriſt and of God; and ſure God will vindicate His own Honour, and the Honour of his Faithful Servants. Therefore let all Profane Perſons conſider in time; ſince the Contempt of their Spiritual Guides will prove their Eternal confuſion, if they do not Repent. 'Tis a dangerous ſign, that ſuch have no True Religion, who ſcorn and malign the Miniſters of it; and he muſt be Profane, who has no Reverence for Perſons who are Sacred. <hi>Obey them that have the Rule over you, and ſubmit your ſelves. For they watch for your Souls, as they that muſt give account; that they may do it with joy, and not with grief: For that is unpro<g ref="char:EOLhyphen"/>fitable for you</hi>
+               <note n="(a)" place="margin">Hebr. 13.17.</note>. It is a grief and diſcouragement, when a Miniſter of Chriſt, obſerves ſuch an En<g ref="char:EOLhyphen"/>mity againſt Religion; but 'tis Deſtruction to thoſe in whom that Enmity is, if they do not Repent: Let ſuch therefore know, That to ſcorn and malign thoſe whoſe peculiar and diſtinctive Character it is, that they belong to God; is to oppoſe God Him<g ref="char:EOLhyphen"/>ſelf. That to have no Reſpect and Reverence for the Meſſengers of God, is a Neglect of Him. 'Tis not therefore for our own ſakes, but for yours, that we ſay ſuch things as theſe. For we know our Character
+<pb n="26" facs="tcp:63585:16"/>is Sacred, and that All who are Wiſe and Religious count it ſo. We know alſo, that God is intereſted in the Honour of his Immediate Servants, and that he takes care of thoſe who are Faithful to Him. But we dare not be guilty of ſuch vicious Modeſty, as wholly to forbear reminding Chriſtians, what Reverence is due to their Spiritual Guide; becauſe that Reverence is fundamentally neceſſary to Chri<g ref="char:EOLhyphen"/>ſtians profiting by them, and the want of that Re<g ref="char:EOLhyphen"/>verence, is a fatal Sign, that their Miniſtry has no effect on ſuch Men. In ſhort, <hi>We are unto God, a ſweet ſavour of Chriſt in them that are ſaved, and in them that periſh. To the one we are the ſavour of Death unto Death, and to the other we are the ſavour of Life unto Life.</hi> So we are, if we <hi>do not corrupt the Word of God; but as of ſincerity, but as of God, in the ſight of God we ſpeak in Chriſt</hi>
+               <note n="(b)" place="margin">2. Cor. 2.15, 16, 17.</note>. Therefore no Caſe can be more dangerous than that of thoſe Men, who have a Faithful Miniſter of Chriſt, watching for their Souls; and who do not ſubmit to their Conduct, or Reverence their Function. This is the Reaſon which moves and conſtrains us, to magnifie our Office: And may what is ſaid, be candidly underſtood, and ſeriouſly con<g ref="char:EOLhyphen"/>ſidered.</p>
+            <p>Thus muſt Chriſtians <hi>Reverence</hi> their <hi>Miniſters:</hi> And,</p>
+            <p n="2">2. They muſt <hi>Live</hi> their <hi>Religion.</hi>
+            </p>
+            <p>This may juſtly be inferred from the foregoing Diſcourſe; in which, the Nature of Chriſt's Spiritual Kingdom, and the Glories of Him our Supream Lord, and the Office of his Inferior Miniſters have been accounted for. A Chriſtian profeſſes the Religion of Chriſtian, and pretends to belong unto the Kingdom of God: He is under the Obligations of a Diſciple
+<pb n="27" facs="tcp:63585:16"/>and Subject. A Chriſtians Duty is the Study of Wiſdom, and the Practice of Goodneſs, by the Hiſtory of Jeſus Chriſt; Learning his Doctrin, and Imitating his Example. That Wiſdom is ſuch as may influence us to, and direct us in the practice of Goodneſs; and that Goodneſs is ſuch, as the Son of God was the Pattern of, who is the Conſubſtan<g ref="char:EOLhyphen"/>tial Reaſon of the Father. Without that Wiſdom, there can be no Virtue: For as Wiſdom ſeparated from Goodneſs, turns Enthuſiaſm; ſo Goodneſs ſepa<g ref="char:EOLhyphen"/>rated from Wiſdom, turns Superſtition. There is no true Holineſs without great Under<g ref="char:EOLhyphen"/>ſtanding, and an Unlearned is an Ungodly life
+<note n="(c)" place="margin">Si verum fateri volumus, nulla eſt ſancta ruſticitas ſicut nulla eſt ruſticana ſanctitas; ubicunque eſt vera Sanctitas ibi eſt magna Philoſophia, miniméque vulgaris Eruditio<g ref="char:punc">▪</g> 
+                  <hi>Eraſm.</hi> de rat. Conc. l. 1. p. 46.</note>. The Life of Man is the Matter of Virtue, and he who Lives wiſely, Lives religiouſly. He does not live like a Man, who does not, in ſome ſort, Live like a Chriſtian; and a Rational, is a Divine Converſation. Religion is a practical Inſtitution; the True Art of Living well and happily: <hi>For Virtue is the Art of Living in which all Action is contained,</hi> ſays <hi>Philo</hi>
+               <note n="(d)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Philo</hi> de Leg. l. 1. p. 80.</note>. Reaſon and Religion are of the ſame Original, and Nature; and what is <hi>Irrational</hi> is <hi>Irreligious</hi>
+               <note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Philo,</hi> ibid p. 43.</note>, As <hi>Philo</hi> ſaid of the Jewiſh Virtue, ſo <hi>Juſtin M.</hi> ſaid of Chriſtian Piety, it conſiſts not in <hi>Words, but Deeds</hi>
+               <note n="(f)" place="margin">
+                  <hi>Juſtin M.</hi> ad Gr p. 33.</note>. No man muſt pretend to a Practical Inſtitution, and not practiſe by it: All ſuch Pretences are ſo groſly falſe, that they are very ridiculous. But as the Chriſtian Inſtitution is the Perfection of Religion, and that Religion is a Divine Life
+<note n="(g)" place="margin">The Life of God, Eph. 4.18.</note>; ſo the Converſation of a Chriſtian, muſt excel in Virtue. <hi>Except our Righ<g ref="char:EOLhyphen"/>teouſneſs
+<pb n="28" facs="tcp:63585:17"/>exceeds the righteouſneſs of the Scribes and Phariſees (i. e.</hi> the moſt celebrated among the Jews,) <hi>we can in no caſe enter into the Kingdom of Heaven</hi>
+               <note place="margin">
+                  <hi>(h)</hi> Matt. 5.20.</note>. We cannot be happy in the other World; nor Reli<g ref="char:EOLhyphen"/>gious in this. S. <hi>Cyprian</hi> in his Tract concerning Pa<g ref="char:EOLhyphen"/>tience, gives this Character of Chriſtians; <hi>We Bre<g ref="char:EOLhyphen"/>thren, are they, who are Philoſophers, not in Words but in Deeds; who do not pretend wiſdom in Habit, but in Truth; who know rather the Conſcience, than the Boaſt of Virtue: Who do not Speak, but Live great things, as the Servants and Worſhippers of God</hi>
+               <note place="margin">
+                  <hi>(i)</hi> Nos autem fratres chariſſimi, qui Philoſophi, non verbis ſed factis ſumus, nec veſtitu ſapientiam, ſed veritate praeſerimus, qui Virtutum ma<g ref="char:EOLhyphen"/>gis Conſcientiam quàm jactantiam novimus, qui non loquimur magna ſed vivimus, quaſi ſervi &amp; cultores Dei. <hi>Cyprian.</hi> de Patient.</note>. 'Tis not in Speculation, but in Practice; 'tis not in ſome ſingle Acts, but in a courſe of Life, that Chriſtianity does conſiſt
+<note n="(k)" place="margin">1 Pet. 1.15.</note>. <hi>Job</hi> gives the deſcription of True Wiſ<g ref="char:EOLhyphen"/>dom, and repreſents it as coming from God: <hi>And unto Man he ſaid; Behold, the Fear of the Lord, that is Wiſdom; and to depart from Evil, is <g ref="char:V">Ʋ</g>nderſtanding
+<note n="(l)" place="margin">Job 28.28.</note>. Thus we muſt be Wiſe in this Life, or we muſt be Miſerable in the next. For we have not another Life afforded us, that we may ſeek Wiſdom in this, and be Wiſe in that: 'Tis neceſſary we ſhould do both in this</hi>
+               <note n="(m)" place="margin">Non enim nobis altera vita conceditur, ut cum quaeramus in hâe, ſapientiam, in illâ ſapere poſſimus: In hâc utrumque fieri neceſſe eſt. <hi>Lactant.</hi> l. 3. c. 16.</note>. This is the great Deſign of the Goſpel, which is called the Grace of God; and that Grace is ſaving, as it teaches this. <hi>The Grace of God, that bringeth Salvation, hath appeared to all Men; teaching us, that denying <g ref="char:V">Ʋ</g>ngodlineſs and worldly Luſts, we ſhould live ſoberly, righteouſly and godly in this preſent World: Looking for the Bleſſed Hope, and the glorious Appearing of the Great God, and our Saviour Jeſus Chriſt; who gave Himſelf for us, that He might
+<pb n="29" facs="tcp:63585:17"/>redeem us from all Iniquity, and purifie unto Him<g ref="char:EOLhyphen"/>ſelf a peculiar People, zealous of good Works</hi>
+               <note n="(n)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Tit. 2.11, 12, 13, 14.</note>. This is the Deſign of our Lord, and this is the Duty of his Diſciples: And to this End, the Per<g ref="char:EOLhyphen"/>formances, of his Miniſters tend; and agreeable is their Obligation. <hi>I charge thee</hi> (ſays <hi>S. Paul</hi> to <hi>Timothy) therefore before God and the Lord Jeſus Chriſt, who ſhall judge the quick and the dead, at his Appearing and his Kingdom; Preach the Word, be inſtant, in ſeaſon and out of ſeaſon; reprove, rebuke, exhort, with all Long-ſuffering and Doctrin</hi>
+               <note n="(o)" place="margin">2 Tim. 4.1, 2.</note>. The Kingdom of God ſignifies that ſtate Eminently, which ſhall be at the Reſurrection of the Dead
+<note n="(p)" place="margin">Vid. <hi>Grot.</hi> ad Matt. 5.19. &amp; 16.28.</note>. Then <hi>they that ſleep in the Duſt of the Earth, ſhall awake, ſome to everlaſting Life, and ſome to Shame and everlaſting Contempt: And they that be Wiſe, ſhall ſhine as the brightneſs of the Firmament; and they that turn many unto righteouſneſs, as the Stars for ever and ever</hi>
+               <note n="(q)" place="margin">Dan. 12.2, 3.</note>. Let all then who are Chriſtians, <hi>Take heed unto themſelves.</hi> And let us who are Miniſters <hi>take heed unto our ſelves, and to all the Flock over which the Holy Ghoſt hath made us Overſeers; to feed the Church of God, which He hath purchaſed with his own Blood; That when the Chief Shepherd ſhall ap<g ref="char:EOLhyphen"/>pear, we may receive that Crown of Glory that fadeth not away</hi>
+               <note n="(r)" place="margin">Hebr. 2.1, 2, 3.</note>. And, <hi>O Lord God, keep this for ever in the Imagination of the thoughts of the Heart of <g ref="char:V">Ʋ</g>s thy Servants, and prepare our Hearts unto thee</hi>
+               <note n="(t)" place="margin">1 Chron. 29.18.</note>.</p>
+            <pb n="30" facs="tcp:63585:18" rendition="simple:additions"/>
+            <p>
+               <hi>ALmighty God, the Giver of all good Gifts, who of thy Divine Providence haſt ap<g ref="char:EOLhyphen"/>pointed divers Orders in thy Church: Give thy Grace, we humbly beſeech thee, to all thoſe, who are called to any Office and Adminiſtration in the ſame; and ſo repleniſh them with the Truth of thy Doctrin, and endue them with Innocency of Life, That they may faithfully ſerve before Thee, to the glory of thy great Name, and the benefit of thy Holy Church, through Jeſus Chriſt our Lord.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63585:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
